@@ -1,3 +1,3 @@
 Team members:
-    - Lukanin F.A.
+- Lukanin F.A.
 
